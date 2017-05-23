@@ -1,0 +1,21 @@
+{
+  "name": "gulp-some",
+  "version": "1.0.0",
+  "description": "Pass through all source files only if at least one returns true",
+  "homepage": "https://github.com/gdh1995/gulp-some",
+  "author": "gdh1995",
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "some"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gdh1995/gulp-some.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gdh1995/gulp-some/issues"
+  },
+  "license": "MIT",
+  "main": "index.js"
+}
