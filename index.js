@@ -31,7 +31,7 @@ function Some(options) {
    * Source files need to be buffered until a newer file is found. 
    * When a newer file is found, buffered source files are flushed
    * (and the `_all` flag is set).
-   * @type {[File]}
+   * @type {File[]}
    */
   this._bufferedFiles = [];
 
